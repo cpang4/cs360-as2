@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+## Claire Pang
+## Assignment 2 - CS360
 
-You can use the [editor on GitHub](https://github.com/cpang4/cs360-as2/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+[Bar chart](https://gist.github.com/cpang4/bc01e429efb6d6933c82d2595735250d)
+The number of cancelled flights in 2016 from major airports.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Line chart](https://gist.github.com/cpang4/14098b349851b92eb652396c33983d3c)
+The number of cancelled flights from SFO, 2003-2016.
 
-### Markdown
+[Bivariate Scatterplot](https://gist.github.com/cpang4/bbaba616f9c12fccb49edf59d56d9735)
+The number of cancelled flights vs the number of delayed flights from SFO, where each point represents the reported amounts in a month.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[Trivariate Scatterplot](https://gist.github.com/cpang4/9a5bbe7b36a9b07231fd64ccda065163)
+The number of cancelled flights vs the number of delayed flights from SFO, LAX, and EWR, where each point represents the reported amounts in a month.
 
-```markdown
-Syntax highlighted code block
+[Trellis plot](https://gist.github.com/cpang4/bec7eb83c06b7778d94e6e38fbf30e75)
+The number of cancelled vs number of delayed flights from SFO, LAX, and EWR, where each point represents the reported amounts in a month.
 
-# Header 1
-## Header 2
-### Header 3
+[Scatterplot matrix](https://gist.github.com/cpang4/bd18da802d799164304314b4625ca248)
+The number of cancelled vs number of delayed flights from SFO, where each point represents the reported amounts in a month.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cpang4/cs360-as2/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+(extra credit)
+[Parallel coordinates](https://gist.github.com/cpang4/f808b536ff634d1c44c53d79729544dc)
+The number of delays due to Carrier (airline), Weather, or Security from SFO, where each parallel coordinate represents the reported amounts in a month.
